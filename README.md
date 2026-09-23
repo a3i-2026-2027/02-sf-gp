@@ -19,7 +19,7 @@ Students are strongly encouraged to _run all lectures locally_. Doing this will 
 
 * Download or clone this repository, e.g. via the command:
 ```sh
-git clone https://github.com/a3i-2025-2026/03-sf-gp.git
+git clone https://github.com/a3i-2026-2027/02-sf-gp.git
 ```
 * Open a terminal in the main directory of the downloaded/cloned repository
 * Install the required dependencies, _by using a virtual environment_. Each lectures already contains configuration files to manage dependencies via [poetry](https://python-poetry.org). If you are using poetry, you can install dependencies via:
